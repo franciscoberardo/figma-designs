@@ -18,6 +18,8 @@ https://www.figma.com/proto/RxsHcjRbhgmIn5zeLW3DA0/cripto-site?type=design&node-
 3- Reponsive design for a criptocurrency site. 
 The request was to make a design for light mode and another in dark mode.
 
+https://www.figma.com/file/u6ZFh6mhRCxIIxUc25PL2c/Responsive-criptocurrency-site?type=design&node-id=1%3A88&mode=design&t=h9jfNrtKniAm1jFR-1
+
 ![image](https://github.com/franciscoberardo/figma-designs/assets/76501447/81b2a112-4fb4-4371-8679-1ddf538f7e8d)
 
 ![image](https://github.com/franciscoberardo/figma-designs/assets/76501447/e64a8d22-d851-46f4-87e6-a9c129ff6403)
